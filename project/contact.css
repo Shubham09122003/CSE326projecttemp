@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header_text {
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+    background-color: #332E2A;
+    padding-bottom: 10px;
+}
+
+.contact {
+    background: rgb(82, 85, 85);
+    height: 533px;
+}
+
+.text-center {
+    text-align: center;
+    padding: 30px;
+}
+
+.form {
+    max-width: 500px;
+    margin: 42px auto;
+}
+
+.form-group {
+    width: 60%;
+    margin: 14px 290px;
+    padding: 5px 3px;
+    font-size: 19px;
+    border: 2px solid grey;
+    border-radius: 6px;
+    background-color: rgb(255, 211, 145);
+}
+
+
+/* .button {
+    margin: 12px 600px;
+    padding: 5px 3px;
+    font-size: 16px;
+    color: black;
+    border: 2px solid rgb(131, 126, 126);
+    border-radius: 4px;
+    background-color: brown;
+} */
+
+.visit {
+    text-align: center;
+    padding: 25px 3px;
+    font-style: oblique;
+}
+
+.button_sub {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: medium;
+    border-radius: 4px;
+    margin-left: 44%;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(211, 40, 1);
+}
+
+.button_sub_txt {
+    text-decoration: none;
+}

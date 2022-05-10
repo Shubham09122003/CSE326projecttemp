@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header_text {
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+    background-color: #332E2A;
+    padding-bottom: 10px;
+}
+
+.contact {
+    background: rgb(82, 85, 85);
+    height: 533px;
+}
+
+.visit {
+    text-align: center;
+    padding: 25px 3px;
+    font-style: oblique;
+}
